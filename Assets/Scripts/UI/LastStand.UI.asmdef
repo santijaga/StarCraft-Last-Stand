@@ -1,0 +1,4 @@
+{
+  "name": "LastStand.UI",
+  "references": ["LastStand.Player", "UnityEngine.UI"]
+}

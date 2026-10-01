@@ -1,0 +1,4 @@
+{
+  "name": "LastStand.Player",
+  "references": ["Unity.InputSystem"]
+}
